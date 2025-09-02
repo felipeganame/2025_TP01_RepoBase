@@ -19,3 +19,4 @@ Contiene archivos simples para que puedas practicar creación de ramas, commits,
 - Realizamos esos commits ya que aportan informacion sufiente como para que cuando alguien disntinto a noosotro vea nuestro codigo pueda entender donde y como modificamos
 - Lo integre al main haciendo uso de un merge que ya que el hotfix estaba probando solucionar el problema de la rama main que se mantuvo como siempre estuvo 
 - https://github.com/felipeganame/2025_TP01_RepoBase/blob/main/src/app.js           En esta URL esta el repo que usamos para este tp
+- Agregamos un TAG indicando v1.0 para dejar marcada que esta es una version estable del codigo que estaria lista para produccion
